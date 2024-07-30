@@ -1,0 +1,12 @@
+.header {
+  padding-left: 3.2rem;
+  padding-right: 3.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-icon {
+  display: flex;
+  gap: 2rem;
+}
